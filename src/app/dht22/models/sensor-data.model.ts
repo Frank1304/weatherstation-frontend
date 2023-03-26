@@ -1,4 +1,4 @@
-export class Sensor {
+export class SensorData {
     constructor(
         public id: number,
         public timestamp: Date,

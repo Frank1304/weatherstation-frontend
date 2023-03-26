@@ -1,6 +1,6 @@
 import { TestBed } from '@angular/core/testing';
 
-import { SensorMappingService } from './sensor.mapping.service';
+import { SensorMappingService } from './sensor-data-mapping.service';
 
 describe('SensorMappingService', () => {
   let service: SensorMappingService;
